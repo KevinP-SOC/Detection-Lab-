@@ -22,14 +22,13 @@ The SOC Detection Lab was created to build a safe, virtualized environment for s
 - **Splunk** – SIEM for log ingestion, search, and analysis.
 - **Wireshark** – optional packet analysis for network visibility.
 - **Sysmon** – provided detailed system and process logging.
+
+## Video Walkthrough
+  **Full end-to-end video walkthrough: `[Video Link Here soon]`.**
+  
 ## Steps
 The following steps document how I built and configured a secure home lab environment using VirtualBox.  
 This lab was designed to safely test tools, simulate attacks, and generate telemetry for analysis within a SIEM. 
-
-## Video Walkthrough
-  **Full end-to-end video walkthrough: `[Add Video Link Here]`.**
-  
-## Steps
 
 1) **Download Windows 10 ISO**  
 <img width="640" height="640" alt="1" src="https://github.com/user-attachments/assets/725eb126-de0b-4b0f-b3c6-94411dfbc284" />
