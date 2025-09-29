@@ -1,4 +1,4 @@
-# SOC Detection Lab-
+# SOC Detection Lab
 
 ## Objective
 
